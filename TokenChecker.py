@@ -1,4 +1,4 @@
-import requests                                                                                                                                                                                                                                                                                                               
+import requests 
 from colorama import Style, Fore
 import os
 import ctypes
